@@ -1,6 +1,6 @@
 # **FINAL PROJECT: INTERACTIVE ART INSTALLATION**
 
-**A Mysterious Box that Comes Alive with Your Movement**
+## **A Mysterious Box that Comes Alive with Your Movement**
 
 _Team Members: Suvina and Het_
 
@@ -12,7 +12,7 @@ For our final physical computing project we wanted to implement computer vision
 that we were taught in the Logic of Interaction class and combine that with LED lights.
 
 # **Phase1: Concept Ideation**
-# **Take a break and interact**
+## **Take a break and interact**
 
 <img width="669" alt="Screenshot 2023-12-21 at 12 47 11" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/0a4adace-f74d-45b5-8ede-616d42e05d91">
 
