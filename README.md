@@ -75,11 +75,12 @@ https://github.com/Suvina19/InteractiveBox/assets/144509711/f989fe30-bb67-4024-9
 **Phase 3: Prototype**
 We decided to use Touchdesigner instead of Posenet since it gave us more flexibility to experiment with the effects. We started by getting the real life replication in our 10x10 LED grid using Touchdesigner and the built in camera in our laptop.
 
-https://youtu.be/sSBMkTw-Cx4
+[https://youtu.be/sSBMkTw-Cx4](https://www.youtube.com/watch?v=sSBMkTw-Cx4)
 
 We were able to get the LED’s to replicate the real life input but we couldn’t see the human outline clearly due to background disturbance.
 
 **Tutorial links:**
+
 https://youtu.be/ZplOrM6G6JI
 
 https://youtu.be/HIn2IBBhxXk
