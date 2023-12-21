@@ -58,21 +58,37 @@ Next, we tried using preloaded Arduino programs to check if the LED’s were wor
 
 **Code 1: Colour testing**
 
-https://youtube.com/shorts/d6QhcscHyD4?feature=share&source=post_page-----c336ff7cf4d5--------------------------------
+
+https://github.com/Suvina19/InteractiveBox/assets/144509711/528e587e-967e-48b5-9613-2874f89a632f
+
 
 Once we confirmed that the grid worked we began experimenting with Touchdesigner and P5 to choose the best option. 
 Since Het and I were both new to Touchdesigner we kept watching tutorials and tried to follow them to understand how 
 lighting works.
 
+https://github.com/Suvina19/InteractiveBox/assets/144509711/fd1e6626-0d47-4c21-9aa6-e396379ebad6
+
 Using Posenet we were able to track the finger and control the LED which was mapped to the grid on P5.
+
+https://github.com/Suvina19/InteractiveBox/assets/144509711/f989fe30-bb67-4024-9a64-000486429e83
 
 **Phase 3: Prototype**
 We decided to use Touchdesigner instead of Posenet since it gave us more flexibility to experiment with the effects. We started by getting the real life replication in our 10x10 LED grid using Touchdesigner and the built in camera in our laptop.
 
+https://youtu.be/sSBMkTw-Cx4
+
 We were able to get the LED’s to replicate the real life input but we couldn’t see the human outline clearly due to background disturbance.
+
+Tutorial links:
+https://youtu.be/ZplOrM6G6JI
+https://youtu.be/HIn2IBBhxXk
+
 
 **Phase 4: Iterate**
 We watched a few more tutorials and research we were able to figure out how to remove the background in Touchdesigner. We were then able to get some blobs in our LED grid.
+
+https://youtu.be/anY0m9hU1h0
+
 
 **Phase 5: Fabrication**
 Once our code was ready and the test was successful we started our fabrication for the final output.
@@ -80,7 +96,11 @@ We wanted to make a bigger grid hence, we decided to use 200 LED’s this time w
 
 We also wanted to create a seamless box so Het and I both took a laser cutting workshop and got certified to use the laser cutter.
 
+https://youtu.be/i72IUQjC_NM
+
 We used Makercase to build our box for laser cutter.
+
+<img width="674" alt="Screenshot 2023-12-21 at 12 56 34" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/9230c2ac-e42f-4494-b749-5720a36d9cc2">
 
 Once we got all the pieces ready we started assembling the box and soldering our LED strips.
 
