@@ -11,8 +11,8 @@ _Team Members: Suvina and Het_
 For our final physical computing project we wanted to implement computer vision 
 that we were taught in the Logic of Interaction class and combine that with LED lights.
 
-**Phase1: Concept Ideation**
-**Take a break and interact**
+# **Phase1: Concept Ideation**
+# **Take a break and interact**
 
 <img width="669" alt="Screenshot 2023-12-21 at 12 47 11" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/0a4adace-f74d-45b5-8ede-616d42e05d91">
 
@@ -26,14 +26,14 @@ transforming into a vibrant canvas of color that mimics your every move. This is
 interactive art installation, a project that brings together technology and creativity to create a 
 unique and captivating experience.
 
-**Interaction**
+# **Interaction**
 As users approach the LED box, the camera will detect their presence, initiating a dynamic transformation 
 of the LED lights.
 
 The computer vision system, powered by Touchdesigner, captures the gestures of the users’ body and translates 
 them into visual expressions of their emotions on the LED box.
 
-**Components used**
+# **Components used**
 • 200 Addressable LED strip
 • Arduino
 • Webcam
@@ -41,7 +41,7 @@ them into visual expressions of their emotions on the LED box.
 • Chipboard
 • Copper tape
 
-**Phase 2: Ideate and Learn**
+# **Phase 2: Ideate and Learn**
 
 Building this interactive artwork was a journey of exploration and learning. We started small, prototyping our 
 concept with a humble 10x10 grid of LEDs and experimenting with software like Touchdesigner and P5. We faced 
@@ -56,7 +56,7 @@ Next, we tried using preloaded Arduino programs to check if the LED’s were wor
 
 <img width="674" alt="Screenshot 2023-12-21 at 12 48 12" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/8c43aa93-92e6-4102-84b4-aaaeeb463d72">
 
-**Code 1: Colour testing**
+# **Code 1: Colour testing**
 
 
 https://github.com/Suvina19/InteractiveBox/assets/144509711/528e587e-967e-48b5-9613-2874f89a632f
@@ -72,14 +72,14 @@ Using Posenet we were able to track the finger and control the LED which was map
 
 https://github.com/Suvina19/InteractiveBox/assets/144509711/f989fe30-bb67-4024-9a64-000486429e83
 
-**Phase 3: Prototype**
+# **Phase 3: Prototype**
 We decided to use Touchdesigner instead of Posenet since it gave us more flexibility to experiment with the effects. We started by getting the real life replication in our 10x10 LED grid using Touchdesigner and the built in camera in our laptop.
 
 [https://youtu.be/sSBMkTw-Cx4](https://www.youtube.com/watch?v=sSBMkTw-Cx4)
 
 We were able to get the LED’s to replicate the real life input but we couldn’t see the human outline clearly due to background disturbance.
 
-**Tutorial links:**
+# **Tutorial links:**
 
 https://youtu.be/ZplOrM6G6JI
 
@@ -87,7 +87,7 @@ https://youtu.be/HIn2IBBhxXk
 
 <img width="1511" alt="Screenshot 2023-12-21 at 13 08 46" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/1eb4109b-d275-40b1-aee2-83cc8a8071e2">
 
-**Phase 4: Iterate**
+# **Phase 4: Iterate**
 We watched a few more tutorials and research we were able to figure out how to remove the background in Touchdesigner. We were then able to get some blobs in our LED grid.
 
 
@@ -98,7 +98,7 @@ https://youtu.be/anY0m9hU1h0
 <img width="1511" alt="Screenshot 2023-12-21 at 13 09 27" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/a342954e-bccc-410f-b463-235c067f8570">
 
 
-**Phase 5: Fabrication**
+# **Phase 5: Fabrication**
 Once our code was ready and the test was successful we started our fabrication for the final output.
 We wanted to make a bigger grid hence, we decided to use 200 LED’s this time with a 20x10 grid.
 
@@ -140,13 +140,10 @@ https://youtu.be/YZS9Pcs9LUE
 ![IMG_2690](https://github.com/Suvina19/InteractiveBox/assets/144509711/37d9f904-e511-48b3-a881-64a69c6271b3)
 
 
-![IMG_2691](https://github.com/Suvina19/InteractiveBox/assets/144509711/2a259d16-6c48-4253-be4e-b778f7da509c)
-
-
 ![IMG_2692](https://github.com/Suvina19/InteractiveBox/assets/144509711/646e3dd7-4112-4e66-abde-0457119797cc)
 
 
-**Final set up and testing**
+# **Final set up and testing**
 We were excited to present our idea and began by setting up our installation at the school.
 
 
@@ -161,7 +158,7 @@ https://youtu.be/Be35pdBzwTU
 ![IMG_2742](https://github.com/Suvina19/InteractiveBox/assets/144509711/dcfea4b2-37b9-4e70-a2b1-ebdc85c592b8)
 
 
-**Final presentation**
+# **Final presentation**
 https://youtu.be/i_caO7eg0E4
 
 
@@ -173,7 +170,8 @@ https://youtu.be/i_caO7eg0E4
 **P.S.** We couldn’t have done it without the amazing support of our instructors, Viola, Daniel, Bruno, and Carrie. Thank you for believing in our crazy idea and helping us bring it to life!
 
 
-**Takeaways:**
+
+# **Takeaways:**
 This was a very ambitious project that we wanted to do with very little knowledge about the softwares and it was pretty difficult to figure out how this would work out but I’m glad we didn’t give up and finished this project.
 
 This project was more than just building a cool gadget. It was about creating a connection between people and technology, a space where anyone could become an artist, leaving their mark on the canvas of light. We saw smiles, laughs, and even a few gasps of wonder as people interacted with our creation. It was a reminder that even in the cold concrete jungle, there’s room for magic and wonder.
