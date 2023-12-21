@@ -131,7 +131,8 @@ https://youtu.be/Be35pdBzwTU
 **Final presentation**
 https://youtu.be/i_caO7eg0E4
 
-![IMG_2769 copy](https://github.com/Suvina19/InteractiveBox/assets/144509711/831e59b4-4a8a-4c7c-b05c-c6b79da95229)
+
+![IMG_2789 jpeg copy](https://github.com/Suvina19/InteractiveBox/assets/144509711/488cb06c-e4bb-4e46-b0b4-d69cb09b45c4)
 
 ![IMG_2792 copy](https://github.com/Suvina19/InteractiveBox/assets/144509711/389bd30b-d70a-4a44-ab72-d4954d97c919)
 
