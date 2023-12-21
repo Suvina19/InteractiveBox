@@ -7,14 +7,14 @@ _Team Members: Suvina and Het_
 ![IMG_2772 copy](https://github.com/Suvina19/InteractiveBox/assets/144509711/63d9843a-941d-4a61-b3f8-a487628dff57)
 
 
-
 **Introduction**
 For our final physical computing project we wanted to implement computer vision 
 that we were taught in the Logic of Interaction class and combine that with LED lights.
 
-
 **Phase1: Concept Ideation**
 **Take a break and interact**
+
+<img width="669" alt="Screenshot 2023-12-21 at 12 47 11" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/0a4adace-f74d-45b5-8ede-616d42e05d91">
 
 In a busy city like New York where people are always moving and have places to be we wanted 
 to create an art installation which is dark and blank at first but starts creating colourful 
@@ -50,9 +50,16 @@ But with each obstacle, we learned and grew, pushing the boundaries of our techn
 
 We first made a 10x10 grid for prototyping and figuring out the interaction. We also made a grid to get the pixelated effect.
 
+<img width="674" alt="Screenshot 2023-12-21 at 12 48 01" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/94c0f93f-fe08-42e4-9395-4d9147cf6390">
+
 Next, we tried using preloaded Arduino programs to check if the LED’s were working fine.
 
+<img width="674" alt="Screenshot 2023-12-21 at 12 48 12" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/8c43aa93-92e6-4102-84b4-aaaeeb463d72">
+
 **Code 1: Colour testing**
+
+https://youtube.com/shorts/d6QhcscHyD4?feature=share&source=post_page-----c336ff7cf4d5--------------------------------
+
 Once we confirmed that the grid worked we began experimenting with Touchdesigner and P5 to choose the best option. 
 Since Het and I were both new to Touchdesigner we kept watching tutorials and tried to follow them to understand how 
 lighting works.
