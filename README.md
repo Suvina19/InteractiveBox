@@ -2,7 +2,10 @@
 
 **A Mysterious Box that Comes Alive with Your Movement**
 
-_Team Members: Suvina and Het_
+_Team Members: Suvina and Het_!
+[IMG_2772 copy](https://github.com/Suvina19/InteractiveBox/assets/144509711/f33a5632-7372-4719-a96f-8239ab613e06)
+
+
 
 **Introduction**
 For our final physical computing project we wanted to implement computer vision 
