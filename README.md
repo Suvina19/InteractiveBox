@@ -1,4 +1,4 @@
-**FINAL PROJECT: INTERACTIVE ART INSTALLATION**
+# **FINAL PROJECT: INTERACTIVE ART INSTALLATION**
 
 **A Mysterious Box that Comes Alive with Your Movement**
 
