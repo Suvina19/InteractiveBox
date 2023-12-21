@@ -2,8 +2,9 @@
 
 **A Mysterious Box that Comes Alive with Your Movement**
 
-_Team Members: Suvina and Het_!
-[IMG_2772 copy](https://github.com/Suvina19/InteractiveBox/assets/144509711/f33a5632-7372-4719-a96f-8239ab613e06)
+_Team Members: Suvina and Het_
+
+![IMG_2772 copy](https://github.com/Suvina19/InteractiveBox/assets/144509711/63d9843a-941d-4a61-b3f8-a487628dff57)
 
 
 
