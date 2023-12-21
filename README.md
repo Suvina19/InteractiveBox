@@ -90,21 +90,28 @@ https://youtu.be/HIn2IBBhxXk
 **Phase 4: Iterate**
 We watched a few more tutorials and research we were able to figure out how to remove the background in Touchdesigner. We were then able to get some blobs in our LED grid.
 
-<img width="1511" alt="Screenshot 2023-12-21 at 13 09 27" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/a342954e-bccc-410f-b463-235c067f8570">
-
 
 https://youtu.be/anY0m9hU1h0
+
+
+
+<img width="1511" alt="Screenshot 2023-12-21 at 13 09 27" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/a342954e-bccc-410f-b463-235c067f8570">
+
 
 **Phase 5: Fabrication**
 Once our code was ready and the test was successful we started our fabrication for the final output.
 We wanted to make a bigger grid hence, we decided to use 200 LED’s this time with a 20x10 grid.
+
 <img width="1511" alt="Screenshot 2023-12-21 at 13 09 43" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/f35198ee-070e-4cc0-b44a-4f2a77e3bc6e">
 
 We also wanted to create a seamless box so Het and I both took a laser cutting workshop and got certified to use the laser cutter.
 
+https://youtu.be/i72IUQjC_NM
+
+
+
 <img width="1511" alt="Screenshot 2023-12-21 at 13 11 10" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/47f84de2-94a1-46f6-b2dd-6b1448bfafd2">
 
-https://youtu.be/i72IUQjC_NM
 
 We used Makercase to build our box for laser cutter.
 
@@ -117,9 +124,12 @@ Once we got all the pieces ready we started assembling the box and soldering our
 
 Once the box was ready we tested all the LED’s to debug any faulty wiring or soldering issues.
 
+https://youtu.be/PD0Yvufbgww
+
+
+
 <img width="1511" alt="Screenshot 2023-12-21 at 13 10 54" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/ca8b377f-a5d1-453c-b66e-e65d26168640">
 
-https://youtu.be/PD0Yvufbgww
 
 The LED’s worked perfectly. We then tried using our Touchdesigner file and tried using the webcam.
 
@@ -128,17 +138,23 @@ The webcam was a bit unstable and the signals were a bit slow. Our instructors t
 https://youtu.be/YZS9Pcs9LUE
 
 ![IMG_2690](https://github.com/Suvina19/InteractiveBox/assets/144509711/37d9f904-e511-48b3-a881-64a69c6271b3)
+
+
 ![IMG_2691](https://github.com/Suvina19/InteractiveBox/assets/144509711/2a259d16-6c48-4253-be4e-b778f7da509c)
+
+
 ![IMG_2692](https://github.com/Suvina19/InteractiveBox/assets/144509711/646e3dd7-4112-4e66-abde-0457119797cc)
 
 
 **Final set up and testing**
 We were excited to present our idea and began by setting up our installation at the school.
 
+
+https://youtu.be/Be35pdBzwTU
+
 <img width="1511" alt="Screenshot 2023-12-21 at 13 11 31" src="https://github.com/Suvina19/InteractiveBox/assets/144509711/0e08928d-b9c6-4108-8d1e-fd03d5daa48e">
 
 
-https://youtu.be/Be35pdBzwTU
 
 ![IMG_2740](https://github.com/Suvina19/InteractiveBox/assets/144509711/49780e33-d599-4903-8581-252d1ddfd108)
 
