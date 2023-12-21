@@ -79,10 +79,10 @@ https://youtu.be/sSBMkTw-Cx4
 
 We were able to get the LED’s to replicate the real life input but we couldn’t see the human outline clearly due to background disturbance.
 
-Tutorial links:
+**Tutorial links:**
 https://youtu.be/ZplOrM6G6JI
-https://youtu.be/HIn2IBBhxXk
 
+https://youtu.be/HIn2IBBhxXk
 
 **Phase 4: Iterate**
 We watched a few more tutorials and research we were able to figure out how to remove the background in Touchdesigner. We were then able to get some blobs in our LED grid.
@@ -106,14 +106,35 @@ Once we got all the pieces ready we started assembling the box and soldering our
 
 Once the box was ready we tested all the LED’s to debug any faulty wiring or soldering issues.
 
+https://youtu.be/PD0Yvufbgww
+
 The LED’s worked perfectly. We then tried using our Touchdesigner file and tried using the webcam.
 
 The webcam was a bit unstable and the signals were a bit slow. Our instructors told us later that we this could have been solved using Arduino mega which would have sent the signal faster.
 
+https://youtu.be/YZS9Pcs9LUE
+
+![IMG_2690](https://github.com/Suvina19/InteractiveBox/assets/144509711/37d9f904-e511-48b3-a881-64a69c6271b3)
+![IMG_2691](https://github.com/Suvina19/InteractiveBox/assets/144509711/2a259d16-6c48-4253-be4e-b778f7da509c)
+![IMG_2692](https://github.com/Suvina19/InteractiveBox/assets/144509711/646e3dd7-4112-4e66-abde-0457119797cc)
+
+
 **Final set up and testing**
 We were excited to present our idea and began by setting up our installation at the school.
+https://youtu.be/Be35pdBzwTU
+
+![IMG_2740](https://github.com/Suvina19/InteractiveBox/assets/144509711/49780e33-d599-4903-8581-252d1ddfd108)
+
+![IMG_2742](https://github.com/Suvina19/InteractiveBox/assets/144509711/dcfea4b2-37b9-4e70-a2b1-ebdc85c592b8)
+
 
 **Final presentation**
+https://youtu.be/i_caO7eg0E4
+
+![IMG_2769 copy](https://github.com/Suvina19/InteractiveBox/assets/144509711/831e59b4-4a8a-4c7c-b05c-c6b79da95229)
+
+![IMG_2792 copy](https://github.com/Suvina19/InteractiveBox/assets/144509711/389bd30b-d70a-4a44-ab72-d4954d97c919)
+
 
 **P.S.** We couldn’t have done it without the amazing support of our instructors, Viola, Daniel, Bruno, and Carrie. Thank you for believing in our crazy idea and helping us bring it to life!
 
